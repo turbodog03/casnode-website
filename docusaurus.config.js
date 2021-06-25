@@ -133,7 +133,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/casdoor/casdoor-website/tree/master/',
+            'https://github.com/casnode/casnode-website/tree/master/',
         },
         blog: {
           showReadingTime: true,
